@@ -22,6 +22,7 @@
 	<a> <img src="https://img.icons8.com/ios-filled/50/fa314a/html-5--v1.png"/> </a> 
 	<a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 	
  
 <br/>
