@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello, my name is Lubomir</h1>
 <h3 align="center">I'm a student at @codingburgas</h3>
 
-
+![image title](https://rushter.com/counter.svg)
 ## 🙋‍♂️ About Me
 <h4 align="center">✨Talk is cheap, show me the code.✨</h4>
 
