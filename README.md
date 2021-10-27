@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact: I like cycling and working out
 
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -30,7 +32,7 @@
 
 
 ## Connect with me:
-<p align="left">
+
 
 <a href = "https://www.instagram.com/_lubomir_georgiev_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
