@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: I like cycling and working out
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" />
 
 ## 🚀 Languages and Tools:
 
@@ -35,7 +35,16 @@
 
 
 <a href = "https://www.instagram.com/_lubomir_georgiev_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/profile.php?id=100006754368003"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+
 
 </p>
 
-#
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lrgeorgiev" alt="lrgeorgiev" /></a> </p>
+
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lrgeorgiev&show_icons=true&locale=en" alt="lrgeorgiev" /></p>
