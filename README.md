@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on Improving myslef
 
-- 🌱 I’m currently learning: C++, HTML5, CSS3, PYTHON
+- 🌱 I’m currently learning: C++,C#, HTML5, CSS3,JS
 
 - 📫 How to reach me: **LRGeorgiev20@codingburgas.bg**
 
