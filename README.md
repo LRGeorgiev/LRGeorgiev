@@ -10,24 +10,14 @@
 
 - 🔭 I’m currently working on Improving myslef
 
-- 🌱 I’m currently learning: C++,C#, HTML5, CSS3,JS
+- 🌱 I’m currently learning: Java,SQL,Penetration testing
 
 - 📫 How to reach me: **LRGeorgiev20@codingburgas.bg**
 
 - ⚡ Fun fact: I like cycling and working out
 
 
-## 🚀 Languages and Ttools:
 
-<p align="left"> 
-	<a> <img src="https://img.icons8.com/ios-filled/50/4a90e2/c-plus-plus-logo.png"/> </a> 
-	<a> <img src="https://img.icons8.com/ios-filled/50/fa314a/html-5--v1.png"/> </a> 
-	<a> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-	<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-	
- 
-<br/>
 	
 
 
